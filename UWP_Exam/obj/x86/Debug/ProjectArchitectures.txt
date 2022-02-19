@@ -1,0 +1,1 @@
+D:\CSharp\FPT\Uwp_newbie\T2012E_Helloworld\UWP_Exam\UWP_Exam.csproj;x86

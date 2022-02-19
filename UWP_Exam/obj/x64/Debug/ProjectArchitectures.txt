@@ -1,0 +1,1 @@
+D:\CSharp\FPT\uwp_exam\UWP_Exam\UWP_Exam.csproj;x64
